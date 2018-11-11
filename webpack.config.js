@@ -1,6 +1,6 @@
 const config = {
 
-	mode : 'development',
+	mode : 'production',
 	output:{
 		publicPath: '/dist'
 	},
