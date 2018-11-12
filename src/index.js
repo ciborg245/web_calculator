@@ -149,7 +149,7 @@ class Board extends React.Component{
 					<button className = "misc_button"
 						onClick = {this.handleClick.bind(this, "M")}> MOD </button>
 					<button className = "misc_button"
-						onClick = {this.handleClick.bind(this, "/")}> ÷ </button>
+						onClick = {this.handleClick.bind(this, "/")}> / </button>
 					<button className = "number_button"
 						onClick = {this.handleClick.bind(this, "7")}> 7 </button>
 					<button className = "number_button"
